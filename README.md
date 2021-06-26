@@ -1,6 +1,6 @@
 ### Hi there, I’m Roei 👋
 
-## I’m a Game Developer who loves doing things right
+## I’m a Unity Game Developer who loves doing things right
 - 🔭 I’m currently working on small projects to implement new habits and to improve my code architecture
 - 🌱 I’m currently reading most of Mr. Robert C. Martin's books and some others
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/roeirubach/)
