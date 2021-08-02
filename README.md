@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on small projects to implement new habits and to improve my code architecture
 - 🌱 I’m currently reading most of Mr. Robert C. Martin's books and some others
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/roeirubach/)
-- ⚡ Fun fact: never finished a book in my life until I encounter Programming and Game Development
+- ⚡ Interesting fact: I never finished a book in my life until I came across programming and game development
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
