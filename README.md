@@ -1,8 +1,8 @@
 ### Hi there, I’m Roei 👋
 
 ## I’m a Unity Game Developer who loves doing things right
-- 🔭 I'm currently testing & implementing new features on small projects, refactoring old projects
-- 🌱 I’m currently reading books to improve my professional field e.g. The Pragmatic Programmer & Clean Code
+- 🔭 I am currently testing, implementing new features on small projects and refactoring old projects
+- 🌱 I am currently reading books to improve my professional field e.g. The Pragmatic Programmer & Clean Code
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/roeirubach/)
 - ⚡ Fun fact: I never finished a book in my life until I came across programming and game development
 
