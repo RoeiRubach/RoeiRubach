@@ -1,8 +1,8 @@
 ### Hi there, I’m Roei 👋
 
 ## I’m a Unity Game Developer who loves doing things right
-- 🔭 I’m currently working on small projects to implement new habits and to improve my code architecture
-- 🌱 I’m currently reading most of Mr. Robert C. Martin's books and some others
+- 🔭 I'm currently testing & implementing new features on small projects, refactoring old projects and reading books to improve my professional field
+- 🌱 I’m currently reading The Pragmatic Programmer & Clean Code
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/roeirubach/)
 - ⚡ Fun fact: I never finished a book in my life until I came across programming and game development
 
