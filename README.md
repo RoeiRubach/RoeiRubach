@@ -1,10 +1,20 @@
 ### Hi there, I’m Roei 👋
 
-## I am a Unity Game Developer who loves doing things right
-- 🔭 Working at OliGame Stuidos as a Unity Developer. I always love to learn new & interesting things
-- 🌱 Books are my way of learning. I am like old-school but in an updated way
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/roeirubach/)
-- ⚡ Fun fact: I never finished a book in my life until I came across programming and game development
+## I’m a Unity Game Developer who cares about doing things right
+- 🔧 I build clean, scalable code and design modular systems that help teams move faster and smarter.
+- 📚 I learn through books — a bit old-school, but it works. Game dev is what made me fall in love with reading.
+- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/roeirubach/)
+- ⚡ Fun fact: I never finished a book until I discovered programming and game development.
+
+## 🛠 Skills
+### Game Development
+Unity3D • Editor Scripting • Profiling & Optimization • Gameplay Systems • Tooling • Git
+
+### Programming & Design
+Advanced C# • OOP • Design Patterns • Clean Code • Dependency Injection • Agile Workflows
+
+### Architecture & Systems
+Modular Design • Scalable Features • Data-Driven Tools • Performance Tuning • Cross-Team Support
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
